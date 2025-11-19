@@ -3,6 +3,7 @@ permalink: /about/team/
 title: "Team"
 sidebar:
   nav: "docs"
+description: "RGES-PIT team, leadership, and working group leads."
 ---
 
 # RGES PIT Leadership
@@ -50,6 +51,7 @@ sidebar:
 | Dex Bhadra | UMD|
 | Aparna Bhattacharya | UMD|
 | Chris Brandon | OSU|
+| Sebastiano Calchi Novati | IPAC|
 | Kylee Carden | OSU|
 | Sean Carey | IPAC|
 | Jessie Christiansen | NExScI|
@@ -63,15 +65,14 @@ sidebar:
 | Stela Ishitani Silva | NASA/GSFC| 
 | Sinclaire Jones | OSU| 
 | Victor Karkour | OSU|
-| Somayeh Khakpash | U. Delaware| 
+| Somayeh Khakpash | Lehigh U.| 
 | Katarzyna Kruszyńska | LCO| 
 | Amber Malpas | OSU| 
 | Carissma McGee | MIT| 
 | Arjun Murlidhar | OSU| 
 | Casey Lam | Canegie Obs.| 
 | Jessica Lu | UC Berkeley| 
-| David Nataf | U. Iowa|
-| Sebastiano Calchi Novati | IPAC| 
+| David Nataf | U. Iowa| 
 | Greg Olmschenk | UMD| 
 | Matthew Penny | LSU|
 | Jennifer Sobeck | IPAC| 
@@ -83,7 +84,7 @@ sidebar:
 | Himanshu Verma | LSU|
 | Jennifer Yee | CfA| 
 | Weicheng Zang | CfA|
-| Keming Zhang | UCSD|
+| Keming Zhang | MIT|
 | Farzaneh Zohrabi | LSU|
 
 &nbsp;  
@@ -116,5 +117,4 @@ sidebar:
 
 | Marcus Alfred | Howard U. |
 | Leland Cheyne | UMD |
-
 
